@@ -19,7 +19,7 @@
 
 ## 🚀 Demo
 
-[podpirate.netlify.app](https://podpirate.netlify.app)
+[Coming Soon](https://)
 
 ## License
 
