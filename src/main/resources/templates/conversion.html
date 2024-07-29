@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!-- Getting Started Section -->
+<section id="#getting-started" class=" py-5">
+    <form action="/convert" method="post">
+        <label for="color">Enter Color:</label>
+        <input type="text" id="color" name="color" required>
+
+        <label for="targetFormat">Select Target Format:</label>
+        <select id="targetFormat" name="targetFormat" required>
+            <option value="hex">Hex</option>
+            <option value="rgb">RGB</option>
+            <option value="rgba">RGBA</option>
+            <option value="hsl">HSL</option>
+            <option value="hsla">HSLA</option>
+            <option value="hsb">HSB</option>
+            <option value="cmyk">CMYK</option>
+        </select>
+
+        <button type="submit">Convert</button>
+    </form>
+</section>
+</body>
+</html>
