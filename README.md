@@ -12,9 +12,6 @@
 
 ## Technologies Used
 
-- **Spring Boot:** Java-based framework for building backend applications.
-- **Thymeleaf:** Java template engine for rendering dynamic HTML content.
-- **Bootstrap:** Front-end framework for building responsive, mobile-first websites.
 - **PWA (Progressive Web App):** Enhances user experience with offline capabilities and app-like performance.
 
 ## 🚀 Demo
