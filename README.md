@@ -12,6 +12,7 @@
 
 ## Technologies Used
 
+- **React:** A powerful JavaScript library for building dynamic user interfaces.
 - **PWA (Progressive Web App):** Enhances user experience with offline capabilities and app-like performance.
 
 ## 🚀 Demo
